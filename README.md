@@ -1,1 +1,2 @@
 # cs230
+The Client The Gaming Room wanted a Web Based Application game for their game Draw it or Lose it. In this i think i did well with the table of discribeing the diffrences and similaritys with each OS. if i were to revize this paper i would revise the bottom part talking about the platform architectures and management and be abit more detailed. I interperted the users needs exactly and implemented them while also thinking about a budget for the project by recomending that they use linux as it would the most effordable and cheapest platform to have as a server.
